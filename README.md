@@ -5,6 +5,10 @@ This Retail Store Sales Dashboard was created to showcase my fundamental skills 
 
 The dataset was sourced from **Kaggle** and it contains Product Category, Payment Method, Location, and Revenue generated.
 
+### Dashboard File  
+My final dashboard is in [retail_store_sales_clean.xlsx](https://github.com/user-attachments/files/24079868/retail_store_sales_clean.xlsx)
+
+
 ## 🛠 Excel Skills Used
 The following Excel skills were utilized for this analysis:
 *   **Data Cleaning:** Handling missing values and standardizing text.
